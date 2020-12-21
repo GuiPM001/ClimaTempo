@@ -1,6 +1,11 @@
-# climaTempo
+# Clima Tempo
 
 A new Flutter project.
+
+<p align="center">
+    <img alt="Telas" title="App" src="images/tela(1).jpg" width="100%"/>
+    <img alt="Telas" title="App" src="images/tela(2).jpg" width="100%"/>
+</p>
 
 ## Getting Started
 
