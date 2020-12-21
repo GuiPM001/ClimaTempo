@@ -3,7 +3,7 @@
 A new Flutter project.
 
 <p align="center">
-    <img alt="Telas" title="App" src="telas.png" width="75%"/>
+    <img alt="Telas" title="App" src="telas.png" width="100%"/>
 </p>
 
 ## Getting Started
