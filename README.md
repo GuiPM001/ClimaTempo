@@ -1,5 +1,5 @@
 <h1 align="center"> 
-    <img alt="Logo" title="Clima Tempo" src="logo.png" width="360px" />
+    <img alt="Logo" title="Clima Tempo" src="logo.png" width="260px" />
 </h1>
 
 
