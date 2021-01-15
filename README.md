@@ -1,4 +1,7 @@
-<h1 align="center"> Clima Tempo </h1>
+<h1 align="center"> 
+    <img alt="Logo" title="Clima Tempo" src="logo.png" width="360px" />
+</h1>
+
 
 <p align="center">
     <img alt="Telas" title="App" src="telas.png" width="90%"/>
