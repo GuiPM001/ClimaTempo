@@ -1,7 +1,7 @@
 <h1 align="center"> Clima Tempo </h1>
 
 <p align="center">
-    <img alt="Telas" title="App" src="telas.png" width="100%"/>
+    <img alt="Telas" title="App" src="telas.png" width="90%"/>
 </p>
 
 ## ✦ Projeto
