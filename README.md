@@ -1,20 +1,15 @@
-# Clima Tempo
-
-A new Flutter project.
+<h1 align="center"> Clima Tempo </h1>
 
 <p align="center">
     <img alt="Telas" title="App" src="telas.png" width="100%"/>
 </p>
 
-## Getting Started
+## ✦ Projeto
+<p align="justify">
+O projeto consiste em um aplicativo mobile de previsão do tempo, que foi desenvolvido utilizando Flutter. O objetivo dese projeto é implementar os principais conceitos para a criação de um aplicativo com Flutter e utilizar dados fornecidos de uma API JSON fornecida pela [HG BRasil](https://hgbrasil.com/status/weather) 
+</p>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+<p align="justify">
+O projeto foi desenvolvido, para fins didáticos, durante o curso de extensão "Desenvolvimento de Aplicativos com Flutter" do Centro Universitário Una – Campus Barreiro
+</p>
