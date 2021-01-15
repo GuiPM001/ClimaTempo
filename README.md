@@ -6,7 +6,7 @@
 
 ## ✦ Projeto
 <p align="justify">
-O projeto consiste em um aplicativo mobile de previsão do tempo, que foi desenvolvido utilizando Flutter. O objetivo dese projeto é implementar os principais conceitos para a criação de um aplicativo com Flutter e utilizar dados fornecidos de uma API JSON fornecida pela [HG BRasil](https://hgbrasil.com/status/weather) 
+O projeto consiste em um aplicativo mobile de previsão do tempo, que foi desenvolvido utilizando Flutter. O objetivo dese projeto é implementar os principais conceitos para a criação de um aplicativo com Flutter e utilizar dados fornecidos de uma API JSON fornecida pela <a href="https://hgbrasil.com/status/weather">HG Brasil</a>
 </p>
 
 ---
