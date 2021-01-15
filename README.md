@@ -4,7 +4,7 @@
 
 
 <p align="center">
-    <img alt="Telas" title="App" src="telas.png" width="90%"/>
+    <img alt="Telas" title="App" src="telas.png" width="80%"/>
 </p>
 
 ## ✦ Projeto
